@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+#navi
+{
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:13px;
+	font-weight:1000;
+	
+	
+	
+}
+#home
+{
+	background-image: url(../image/background.jpg);
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FC0;
+	line-height: normal;
+	text-shadow: 1px 1px #F90;
+}
+#border
+{
+	background-image: url(../image/background.jpg);
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FC0;
+	line-height: normal;
+	text-shadow: 1px 1px #F90;
+
+}
+#castle
+{
+	background-image: url(../image/background.jpg);
+	font-family: Verdana, Geneva, sans-serif;
+	color: #3C0;
+	line-height: normal;
+	text-shadow: 1px 1px #090;
+
+}
+#dead
+{
+	background-image: url(../image/background.jpg);
+	font-family: Verdana, Geneva, sans-serif;
+	color: #D90000;
+	line-height: normal;
+	text-shadow: 1px 1px #800000;
+
+}
